@@ -1,5 +1,90 @@
-body {
-  background-color: #8a2be2;
+@import "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap";
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Poppins, sans-serif;
+  text-decoration: none;
+  list-style: none;
+}
+
+nav {
+  width: 100%;
+  height: 100px;
+  background: #00000080;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  position: fixed;
+  box-shadow: 0 0 10px #000;
+}
+
+.chk1 {
+  display: none;
+}
+
+header .logo {
+  flex: 1;
+  margin-left: 50px;
+}
+
+header .search {
+  flex: 1;
+  position: relative;
+}
+
+.search input {
+  width: 100%;
+  height: 40px;
+  text-align: center;
+  border: none;
+  border-radius: 30px;
+  outline: none;
+  font-size: 16px;
+}
+
+main {
+  border-bottom: 1px solid;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+main, .movies-container {
+  max-width: 968px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.movies-container {
+  grid-template-columns: repeat(auto-fit, minmax(180px, auto));
+  gap: 1rem;
+  margin-top: 2rem;
+  display: grid;
+}
+
+.box .box-img {
+  width: 100%;
+  height: 270px;
+}
+
+.box .box-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.box .box-img img:hover {
+  transition: all .2s linear;
+  transform: translateY(-10px);
+}
+
+.box h3 {
+  font-size: .9rem;
+  font-weight: 500;
+}
+
+.box span {
+  font-size: 13px;
 }
 
 /*# sourceMappingURL=index.3a01df49.css.map */

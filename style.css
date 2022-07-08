@@ -1,3 +1,95 @@
-body {
-    background-color: blueviolet;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* ---- ---Start of the NAV --- ---- */
+
+nav {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    box-shadow: 0 0 10px #000;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.chk1 {
+    display: none;
+}
+
+header .logo {
+    flex: 1;
+    margin-left: 50px;
+}
+
+header .search {
+    flex: 1;
+    position: relative;
+}
+
+.search input {
+    width: 100%;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+    font-size: 16px;
+    text-align: center;
+}
+
+/* ---- ---End of the NAV --- ---- */
+
+
+/*Start of the MAIN SECTION*/
+main {
+    font-size: 1.2rem;
+    font-weight: 500;
+    border-bottom: 1px solid ;
+}
+
+main, .movies-container {
+    max-width: 968px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.movies-container {
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(180px,auto));
+   gap: 1rem;
+   margin-top: 2rem;
+}
+
+.box .box-img {
+    width: 100%;
+    height: 270px;
+}
+
+.box .box-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.box .box-img img:hover {
+    transform: translateY(-10px);
+    transition: 0.2s all linear;
+}
+
+.box h3 {
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.box span {
+    font-size: 13px;
 }

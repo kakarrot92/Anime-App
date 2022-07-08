@@ -1,7 +1,7 @@
-4136
+4137
 86C:\Users\crnap\Documents\Anime-App\node_modules\css-tree\lib\syntax\atrule\supports.js133007127090743576 0
 83C:\Users\crnap\Documents\Anime-App\node_modules\caniuse-lite\data\features\http3.js133007127099659400 0
-44C:\Users\crnap\Documents\Anime-App\style.css133007149171352059 0
+44C:\Users\crnap\Documents\Anime-App\style.css133014187797398877 0
 104C:\Users\crnap\Documents\Anime-App\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts.map133007127114902993 0
 52C:\Users\crnap\Documents\Anime-App\package-lock.json133007127209598665 0
 47C:\Users\crnap\Documents\Anime-App\package.json133007153711700803 0
@@ -17,7 +17,7 @@
 56C:\Users\crnap\Documents\Anime-App\node_modules\css-tree133007127092205841 1
 90C:\Users\crnap\Documents\Anime-App\node_modules\@swc\helpers\lib\_sliced_to_array_loose.js133007127089633042 0
 70C:\Users\crnap\Documents\Anime-App\node_modules\react-refresh\babel.js133007127075256587 0
-39C:\Users\crnap\Documents\Anime-App\dist133007159012747444 1
+39C:\Users\crnap\Documents\Anime-App\dist133017842590382306 1
 72C:\Users\crnap\Documents\Anime-App\node_modules\abortcontroller-polyfill133007127084804963 1
 101C:\Users\crnap\Documents\Anime-App\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc133007127121272296 0
 137C:\Users\crnap\Documents\Anime-App\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude\package.json133007127091602870 0
@@ -29,7 +29,7 @@
 79C:\Users\crnap\Documents\Anime-App\node_modules\caniuse-lite\data\regions\TL.js133007127108467895 0
 64C:\Users\crnap\Documents\Anime-App\node_modules\msgpackr\LICENSE133007127079269238 0
 97C:\Users\crnap\Documents\Anime-App\node_modules\@jridgewell\source-map\dist\types\source-map.d.ts133007127078595883 0
-45C:\Users\crnap\Documents\Anime-App\index.html133007159011199738 0
+45C:\Users\crnap\Documents\Anime-App\index.html133014189151757651 0
 55C:\Users\crnap\Documents\Anime-App\node_modules\globals133007127077073322 1
 69C:\Users\crnap\Documents\Anime-App\node_modules\htmlnano\CHANGELOG.md133007127087467250 0
 54C:\Users\crnap\Documents\Anime-App\node_modules\semver133007127078912462 1
@@ -37,7 +37,7 @@
 60C:\Users\crnap\Documents\Anime-App\node_modules\svgo\LICENSE133007127075120922 0
 91C:\Users\crnap\Documents\Anime-App\node_modules\@parcel\transformer-svg\lib\dependencies.js133007127097912120 0
 79C:\Users\crnap\Documents\Anime-App\node_modules\caniuse-lite\data\regions\NC.js133007127103949047 0
-38C:\Users\crnap\Documents\Anime-App\src133006304607945989 1
+38C:\Users\crnap\Documents\Anime-App\src133007164051293615 1
 76C:\Users\crnap\Documents\Anime-App\node_modules\svgo\plugins\inlineStyles.js133007127082337449 0
 60C:\Users\crnap\Documents\Anime-App\node_modules\caniuse-lite133007127110938817 1
 67C:\Users\crnap\Documents\Anime-App\node_modules\terser\bin\uglifyjs133007127076525574 0
@@ -50,6 +50,24 @@
 107C:\Users\crnap\Documents\Anime-App\node_modules\caniuse-lite\data\features\background-repeat-round-space.js133007127085813568 0
 44C:\Users\crnap\Documents\Anime-App\README.md133006302361217158 0
 79C:\Users\crnap\Documents\Anime-App\node_modules\caniuse-lite\data\regions\AU.js133007127083860016 0
+101C:\Users\crnap\Documents\Anime-App\node_modules\caniuse-lite\data\features\css-backgroundblendmode.js133007127091552638 0
+124C:\Users\crnap\Documents\Anime-App\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude133007127091567674 1
+81C:\Users\crnap\Documents\Anime-App\node_modules\svgo\plugins\removeXMLProcInst.js133007127086944663 0
+82C:\Users\crnap\Documents\Anime-App\node_modules\@parcel\core\src\public\Symbols.js133007127123986649 0
+81C:\Users\crnap\Documents\Anime-App\node_modules\lmdb\dependencies\lz4\lib\lz4hc.c133007127086498655 0
+69C:\Users\crnap\Documents\Anime-App\node_modules\utility-types\LICENSE133007127073568221 0
+94C:\Users\crnap\Documents\Anime-App\node_modules\node-gyp-build-optional-packages\build-test.js133007127073337030 0
+91C:\Users\crnap\Documents\Anime-App\node_modules\caniuse-lite\data\features\css-image-set.js133007127093974667 0
+68C:\Users\crnap\Documents\Anime-App\node_modules\escape-string-regexp133007127070000436 1
+66C:\Users\crnap\Documents\Anime-App\node_modules\@lezer\common\dist133007127086302684 1
+72C:\Users\crnap\Documents\Anime-App\node_modules\entities\lib\encode.d.ts133007127080857157 0
+73C:\Users\crnap\Documents\Anime-App\node_modules\supports-color\browser.js133007127073522964 0
+103C:\Users\crnap\Documents\Anime-App\node_modules\@jridgewell\trace-mapping\dist\types\trace-mapping.d.ts133007127077796902 0
+79C:\Users\crnap\Documents\Anime-App\node_modules\caniuse-lite\data\regions\TN.js133007127108565880 0
+68C:\Users\crnap\Documents\Anime-App\node_modules\lmdb\src\lmdb-js.cpp133007127090708406 0
+42C:\Users\crnap\Documents\Anime-App\src\img133007164051293615 1
+94C:\Users\crnap\Documents\Anime-App\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js133007127085954286 0
+59C:\Users\crnap\Documents\Anime-App\node_modules\xxhash-wasm133007127078470253 1
 66C:\Users\crnap\Documents\Anime-App\node_modules\chrome-trace-event133007127076837138 1
 65C:\Users\crnap\Documents\Anime-App\node_modules\react-refresh\cjs133007127077344651 1
 70C:\Users\crnap\Documents\Anime-App\node_modules\safe-buffer\index.d.ts133007127076163777 0
@@ -72,7 +90,7 @@
 97C:\Users\crnap\Documents\Anime-App\node_modules\htmlnano\lib\modules\minifyConditionalComments.js133007127079490333 0
 62C:\Users\crnap\Documents\Anime-App\node_modules\supports-color133007127075462616 1
 90C:\Users\crnap\Documents\Anime-App\node_modules\chrome-trace-event\dist\trace-event.js.map133007127074829460 0
-53C:\Users\crnap\Documents\Anime-App\src\js\fetchApi.js133007135235322447 0
+53C:\Users\crnap\Documents\Anime-App\src\js\fetchApi.js133017842589166260 0
 96C:\Users\crnap\Documents\Anime-App\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c133007127089396859 0
 98C:\Users\crnap\Documents\Anime-App\node_modules\@parcel\transformer-react-refresh-wrap\lib\helpers133007127093552592 1
 64C:\Users\crnap\Documents\Anime-App\node_modules\get-port\license133007127105525225 0
@@ -269,17 +287,6 @@
 61C:\Users\crnap\Documents\Anime-App\node_modules\dotenv-expand133007127083116320 1
 79C:\Users\crnap\Documents\Anime-App\node_modules\type-fest\ts41\pascal-case.d.ts133007127081364670 0
 68C:\Users\crnap\Documents\Anime-App\node_modules\electron-to-chromium133007127078676281 1
-101C:\Users\crnap\Documents\Anime-App\node_modules\caniuse-lite\data\features\css-backgroundblendmode.js133007127091552638 0
-124C:\Users\crnap\Documents\Anime-App\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude133007127091567674 1
-81C:\Users\crnap\Documents\Anime-App\node_modules\svgo\plugins\removeXMLProcInst.js133007127086944663 0
-82C:\Users\crnap\Documents\Anime-App\node_modules\@parcel\core\src\public\Symbols.js133007127123986649 0
-81C:\Users\crnap\Documents\Anime-App\node_modules\lmdb\dependencies\lz4\lib\lz4hc.c133007127086498655 0
-69C:\Users\crnap\Documents\Anime-App\node_modules\utility-types\LICENSE133007127073568221 0
-94C:\Users\crnap\Documents\Anime-App\node_modules\node-gyp-build-optional-packages\build-test.js133007127073337030 0
-91C:\Users\crnap\Documents\Anime-App\node_modules\caniuse-lite\data\features\css-image-set.js133007127093974667 0
-68C:\Users\crnap\Documents\Anime-App\node_modules\escape-string-regexp133007127070000436 1
-66C:\Users\crnap\Documents\Anime-App\node_modules\@lezer\common\dist133007127086302684 1
-72C:\Users\crnap\Documents\Anime-App\node_modules\entities\lib\encode.d.ts133007127080857157 0
 79C:\Users\crnap\Documents\Anime-App\node_modules\caniuse-lite\data\regions\NG.js133007127104044528 0
 81C:\Users\crnap\Documents\Anime-App\node_modules\@parcel\core\test\fixtures\config133007127121257216 1
 84C:\Users\crnap\Documents\Anime-App\node_modules\caniuse-lite\data\features\mathml.js133007127102884016 0
@@ -440,12 +447,6 @@
 64C:\Users\crnap\Documents\Anime-App\node_modules\v8-compile-cache133007127103356040 1
 62C:\Users\crnap\Documents\Anime-App\node_modules\weak-lru-cache133007127077153696 1
 97C:\Users\crnap\Documents\Anime-App\node_modules\caniuse-lite\data\features\css-conic-gradients.js133007127092276208 0
-73C:\Users\crnap\Documents\Anime-App\node_modules\supports-color\browser.js133007127073522964 0
-103C:\Users\crnap\Documents\Anime-App\node_modules\@jridgewell\trace-mapping\dist\types\trace-mapping.d.ts133007127077796902 0
-79C:\Users\crnap\Documents\Anime-App\node_modules\caniuse-lite\data\regions\TN.js133007127108565880 0
-68C:\Users\crnap\Documents\Anime-App\node_modules\lmdb\src\lmdb-js.cpp133007127090708406 0
-94C:\Users\crnap\Documents\Anime-App\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js133007127085954286 0
-59C:\Users\crnap\Documents\Anime-App\node_modules\xxhash-wasm133007127078470253 1
 71C:\Users\crnap\Documents\Anime-App\node_modules\.bin\node-gyp-build.cmd133007127200001362 0
 67C:\Users\crnap\Documents\Anime-App\node_modules\msgpackr\index.d.ts133007127083196714 0
 52C:\Users\crnap\Documents\Anime-App\node_modules\yaml133007127086679096 1
@@ -490,8 +491,8 @@
 73C:\Users\crnap\Documents\Anime-App\node_modules\is-arrayish\.editorconfig133007127075593281 0
 123C:\Users\crnap\Documents\Anime-App\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\package.json133007127117536988 0
 58C:\Users\crnap\Documents\Anime-App\node_modules\yaml\types133007127084583867 1
-74C:\Users\crnap\Documents\Anime-App\node_modules\react-refresh\package.json133007127078143620 0
 63C:\Users\crnap\Documents\Anime-App\node_modules\yaml\types.d.ts133007127086609222 0
+74C:\Users\crnap\Documents\Anime-App\node_modules\react-refresh\package.json133007127078143620 0
 76C:\Users\crnap\Documents\Anime-App\node_modules\@parcel\transformer-html\lib133007127099659400 1
 79C:\Users\crnap\Documents\Anime-App\node_modules\caniuse-lite\data\regions\ME.js133007127102979122 0
 78C:\Users\crnap\Documents\Anime-App\node_modules\mdn-data\css\units.schema.json133007127080786788 0
@@ -779,10 +780,10 @@
 78C:\Users\crnap\Documents\Anime-App\node_modules\@swc\helpers\lib\_construct.js133007127086729368 0
 56C:\Users\crnap\Documents\Anime-App\node_modules\svgo\bin133007127075668636 1
 77C:\Users\crnap\Documents\Anime-App\node_modules\utility-types\dist\index.d.ts133007127079600893 0
-78C:\Users\crnap\Documents\Anime-App\node_modules\nth-check\lib\esm\parse.js.map133007127079188833 0
-75C:\Users\crnap\Documents\Anime-App\node_modules\utility-types\dist\index.js133007127076043200 0
 96C:\Users\crnap\Documents\Anime-App\node_modules\htmlnano\lib\modules\normalizeAttributeValues.js133007127080826997 0
 71C:\Users\crnap\Documents\Anime-App\node_modules\@parcel\workers\LICENSE133007127091421945 0
+78C:\Users\crnap\Documents\Anime-App\node_modules\nth-check\lib\esm\parse.js.map133007127079188833 0
+75C:\Users\crnap\Documents\Anime-App\node_modules\utility-types\dist\index.js133007127076043200 0
 84C:\Users\crnap\Documents\Anime-App\node_modules\@parcel\core\lib\loadParcelPlugin.js133007127122717458 0
 84C:\Users\crnap\Documents\Anime-App\node_modules\utility-types\dist\mapped-types.d.ts133007127079837060 0
 80C:\Users\crnap\Documents\Anime-App\node_modules\css-what\lib\commonjs\index.d.ts133007127079475272 0
@@ -1950,8 +1951,8 @@
 84C:\Users\crnap\Documents\Anime-App\node_modules\@parcel\transformer-babel\lib\jsx.js133007127100733143 0
 93C:\Users\crnap\Documents\Anime-App\node_modules\htmlnano\lib\modules\removeEmptyAttributes.js133007127081319461 0
 87C:\Users\crnap\Documents\Anime-App\node_modules\htmlnano\lib\modules\removeUnusedCss.js133007127081839962 0
-95C:\Users\crnap\Documents\Anime-App\node_modules\htmlnano\lib\modules\sortAttributesWithLists.js133007127082674113 0
 62C:\Users\crnap\Documents\Anime-App\node_modules\.bin\json5.cmd133007127200001362 0
+95C:\Users\crnap\Documents\Anime-App\node_modules\htmlnano\lib\modules\sortAttributesWithLists.js133007127082674113 0
 79C:\Users\crnap\Documents\Anime-App\node_modules\caniuse-lite\data\regions\UA.js133007127108880047 0
 77C:\Users\crnap\Documents\Anime-App\node_modules\htmlnano\docs\babel.config.js133007127076294429 0
 66C:\Users\crnap\Documents\Anime-App\node_modules\htmlnano\docs\docs133007127087175791 1
@@ -3318,7 +3319,7 @@
 91C:\Users\crnap\Documents\Anime-App\node_modules\@swc\helpers\src\_sliced_to_array_loose.mjs133007127094261136 0
 85C:\Users\crnap\Documents\Anime-App\node_modules\@swc\helpers\src\_super_prop_base.mjs133007127094281188 0
 96C:\Users\crnap\Documents\Anime-App\node_modules\@babel\highlight\node_modules\has-flag\readme.md133007127117972847 0
-61C:\Users\crnap\Documents\Anime-App\dist\index.64aaeb8b.js.map133007158185523727 0
+61C:\Users\crnap\Documents\Anime-App\dist\index.64aaeb8b.js.map133017842590372275 0
 93C:\Users\crnap\Documents\Anime-App\node_modules\@swc\helpers\src\_tagged_template_literal.mjs133007127094301301 0
 99C:\Users\crnap\Documents\Anime-App\node_modules\@swc\helpers\src\_tagged_template_literal_loose.mjs133007127094316358 0
 75C:\Users\crnap\Documents\Anime-App\node_modules\@swc\helpers\src\_throw.mjs133007127094326410 0
@@ -3926,7 +3927,7 @@
 90C:\Users\crnap\Documents\Anime-App\node_modules\@parcel\core\test\PublicDependency.test.js133007127123592755 0
 88C:\Users\crnap\Documents\Anime-App\node_modules\@parcel\core\test\RequestTracker.test.js133007127123723389 0
 84C:\Users\crnap\Documents\Anime-App\node_modules\@parcel\core\test\serializer.test.js133007127123836310 0
-62C:\Users\crnap\Documents\Anime-App\dist\index.3a01df49.css.map133007149172397257 0
+62C:\Users\crnap\Documents\Anime-App\dist\index.3a01df49.css.map133017842590286839 0
 84C:\Users\crnap\Documents\Anime-App\node_modules\@parcel\core\test\fixtures\bundle.js133007127121737762 0
 96C:\Users\crnap\Documents\Anime-App\node_modules\@parcel\core\test\fixtures\common-targets-ignore133007127124640272 1
 99C:\Users\crnap\Documents\Anime-App\node_modules\@parcel\core\test\fixtures\config-extends-not-found133007127121317528 1
@@ -4130,8 +4131,8 @@
 61C:\Users\crnap\Documents\Anime-App\node_modules\.bin\svgo.cmd133007127200011411 0
 61C:\Users\crnap\Documents\Anime-App\node_modules\.bin\svgo.ps1133007127200011411 0
 63C:\Users\crnap\Documents\Anime-App\node_modules\.bin\terser.ps1133007127200021463 0
-58C:\Users\crnap\Documents\Anime-App\dist\index.3a01df49.css133007149172341982 0
-57C:\Users\crnap\Documents\Anime-App\dist\index.64aaeb8b.js133007158185453378 0
+58C:\Users\crnap\Documents\Anime-App\dist\index.3a01df49.css133017842590236594 0
+57C:\Users\crnap\Documents\Anime-App\dist\index.64aaeb8b.js133017842590342128 0
 61C:\Users\crnap\Documents\Anime-App\dist\index.a77869d3.js.map133007149135661216 0
-50C:\Users\crnap\Documents\Anime-App\dist\index.html133007159012727334 0
+50C:\Users\crnap\Documents\Anime-App\dist\index.html133017842590337108 0
 56C:\Users\crnap\Documents\Anime-App\.vscode\settings.json133006305039070123 0
